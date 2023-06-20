@@ -1,4 +1,5 @@
 import java.util.*;
+import java.lang.*;
 class MaxSubArray
 {
     public static int maxdifference(int arr[]) {
