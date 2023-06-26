@@ -9,7 +9,6 @@ Area Of Equilateral Triangle
 Perimeter Of Circle
 Perimeter Of Equilateral Triangle
 Perimeter Of Parallelogram
-
 */
 
 import java.util.*;
