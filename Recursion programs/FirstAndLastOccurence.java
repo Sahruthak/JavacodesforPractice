@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class FirstAndLastOccurence   {
     public static int first=-1;
     public static int last=-1;
