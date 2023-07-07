@@ -5,8 +5,7 @@ public class QueueB {
        static int rear;
        Queue(int size) {
            this.size = size;
-           arr = new int[size];
-	       
+           arr = new int[size];	       
            rear = -1;
        }
        public static boolean isEmpty() {
