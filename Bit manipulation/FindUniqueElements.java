@@ -2,7 +2,7 @@ import java.util.*;
 
 public class FindUniqueElements {
     public static void findUniqueElements(int[] nums) {
-        int  xor = 0;
+        int xor = 0;
         for (int num : nums) {
             xor ^= num;
         }
