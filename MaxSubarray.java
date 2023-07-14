@@ -1,5 +1,4 @@
 //Maximum Subarray Program
-
 class Solution {
     public int maxSubArray(int[] nums) {
         int maxsum=nums[0];
