@@ -6,7 +6,6 @@
 //6) Java Program to print the elements of an array in reverse order
 //7) Java Program to print the elements of an array present on even position
 //8) Java Program to print the elements of an array present on odd position
-
 //9) Java Program to print the largest element in an array
 //10) Java Program to print the smallest element in an array
 //11) Java Program to print the number of elements present in an array
