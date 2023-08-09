@@ -9,9 +9,7 @@ class NetworkDelayTime{
         PriorityQueue<int[]> pq = new PriorityQueue<>((a, b)->(a[0]-b[0])); // create minheap      
         pq.add(new int[]{0, k}); // insert startin node
         boolean[] solved = new boolean[n+1];
-
         int res = 0;
-
         while(!pq.isEmpty()){
             int[] cur = pq.remove();
             int currentNode = cur[1];
