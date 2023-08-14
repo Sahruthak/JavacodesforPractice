@@ -7,7 +7,6 @@ int a,b,c;
 Scanner sc=new Scanner(System.in);
 a=sc.nextInt();
 
-
   
 b=sc.nextInt();
 c=a+b;
