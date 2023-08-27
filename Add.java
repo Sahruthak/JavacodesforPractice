@@ -1,7 +1,6 @@
 import java.util.*;
 class Add {
-public static void main(String args[])
-{
+public static void main(String args[]) {
 int a,b,c;
 Scanner sc=new Scanner(System.in);
 a=sc.nextInt();
