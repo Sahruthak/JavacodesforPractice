@@ -1,6 +1,7 @@
 import java.util.*;
 public class Amstrong
 {
+	
 	public static void main(String[] args) {
 	    int n,r,rev=0,num;
 	    Scanner sc=new Scanner(System.in);
