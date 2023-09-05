@@ -14,6 +14,5 @@ class ReverseSinglyLinkedList {
             current = next;
         }
         return prev;
-    }
-    
+    }    
 }
