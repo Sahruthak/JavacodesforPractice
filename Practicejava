@@ -1,0 +1,43 @@
+import java.util.*;
+public class Practice
+{
+	public static void main(String[] args) {
+	    Scanner sc=new Scanner(System.in);
+	    int n=sc.nextInt();
+	    System.out.println(rev(n));
+	    int m=sc.nextInt();
+	    int[] b=new int[m];
+	    for(int i=0;i<m;i++){
+	        b[i]=sc.nextInt();
+	    }
+	    int key=sc.nextInt();
+	    System.out.println(binarysearch(b,key));
+	}
+	public static boolean binarysearch(int[] a, int key) {
+    int low = 0;
+    int high = a.length - 1; 
+    while (low <= high) { 
+        int mid = low + (high - low) / 2; 
+
+        if (a[mid] == key) {
+            return true; 
+        } else if (a[mid] < key) {
+            low = mid + 1; 
+        } else {
+            high = mid - 1; 
+        }
+    }
+    return false; 
+	}
+
+	public static int rev(int n){
+	    int rev=0;
+	    while(n>0){
+	        int d=n%10;
+	        rev=rev*10+d;
+	        n=n/10;
+	    }
+		return rev;
+	}
+	
+}
