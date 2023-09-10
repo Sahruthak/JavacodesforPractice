@@ -5,7 +5,5 @@ public class Ascci {
     System.out.println(n);
     System.out.println(m);
     }
- }   
-
-    
+ }    
 }
