@@ -18,3 +18,5 @@ public class Amstrong
 	    System.out.println("Not Armstrong");
 	}
 }
+
+
