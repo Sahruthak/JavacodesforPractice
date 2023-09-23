@@ -17,6 +17,7 @@ public class BinaryAddition {
         String sum = performBinaryAddition(binary1, binary2);
         System.out.println("Binary sum: " + sum);
     }
+    
 
     public static String padWithLeadingZeros(String binary, int maxLength) {
         StringBuilder paddedBinary = new StringBuilder(binary);
