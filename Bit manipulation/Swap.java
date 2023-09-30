@@ -12,5 +12,3 @@ public class Swap
 		System.out.println("b : "+b);
 	}
 }
-
-
