@@ -1,6 +1,4 @@
-Stack using array
-
-    
+//Stack using array  
 class Main{
     static int[] stack = new int[10];
     static int top = -1;
