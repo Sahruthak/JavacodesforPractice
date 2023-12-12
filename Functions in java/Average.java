@@ -13,3 +13,7 @@ public class Average
 	    System.out.println("Average : "+avg(a,b,c));
        }
 }
+
+
+
+
