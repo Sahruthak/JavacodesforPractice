@@ -1,6 +1,4 @@
 import java.util.*;
-
-
 class Add {
 public static void main(String args[]) {
 int a,b,c;
