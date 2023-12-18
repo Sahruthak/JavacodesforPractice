@@ -1,4 +1,6 @@
 import java.util.*;
+
+
 public class Divi
 {
 public static void main(String args[])
