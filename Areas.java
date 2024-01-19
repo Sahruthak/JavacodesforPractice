@@ -1,7 +1,6 @@
 /*
 Area Of Circle Java Program
 Area Of Triangle
-
 Area Of Rectangle Program
 Area Of Isosceles Triangle
 Area Of Parallelogram
