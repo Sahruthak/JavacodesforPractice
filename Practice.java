@@ -32,11 +32,8 @@ public class Practice{
     }
 
     public static void prime(int n) {
-        int c = 0;
         for (int i = 2; i <= Math.sqrt(n); i++) {
             if (n % i == 0) {
-                c++;
-                if (c >= 1) {
                     System.out.println("Not Prime");
                     return;
                 }
