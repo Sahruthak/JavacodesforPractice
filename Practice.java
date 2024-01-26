@@ -10,6 +10,7 @@ public class Practice{
         System.out.println("Fact: " + fact(n));
         amstrong(n);
         System.out.println(Math.random());
+        assci();
     }
 
     public static void fib(int n) {
@@ -94,8 +95,6 @@ public class Practice{
            System.out.println("ASCII VALUE OF "+(char)i+" is "+i);  
         } 
     }
-    
-
 
 }
 
