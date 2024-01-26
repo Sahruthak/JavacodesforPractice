@@ -39,7 +39,6 @@ public class Practice{
                     return;
                 }
             }
-        }
         System.out.println("Prime");
     }
 
