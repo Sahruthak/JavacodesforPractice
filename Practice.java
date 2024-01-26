@@ -84,6 +84,19 @@ public class Practice{
         }
     }
 
+    public static void assci() {
+        int s='a';
+        System.out.println(s);
+        for(int i=65;i<91;i++){
+           System.out.println("ASCII VALUE OF "+(char)i+" is "+i);  
+        } 
+        for(int i=97;i<122;i++){
+           System.out.println("ASCII VALUE OF "+(char)i+" is "+i);  
+        } 
+    }
+    
+
+
 }
 
 
