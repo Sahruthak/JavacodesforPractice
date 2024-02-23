@@ -6,5 +6,4 @@ public class Ascci {
     System.out.println(m);
     }
   }  
-
 }
