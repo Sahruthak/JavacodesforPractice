@@ -1,5 +1,4 @@
-public class Ascci {
-  
+public class Ascci {  
   public static void main(String[] args){
     int n='a';
     int m='b';
@@ -7,5 +6,4 @@ public class Ascci {
     System.out.println(m);
     }
   } 
-
 }
