@@ -12,6 +12,7 @@ public class FlowOfProgram{
         int l=sc.nextInt();
         table(l);
     }
+    
     public static void leapyear(int n){
         if(n%4==0 && n%100!=0){
             System.out.println("Leap year");
@@ -23,9 +24,11 @@ public class FlowOfProgram{
             System.out.println("Not leap year");
         }
     }
+    
     public static void sum(int m,int k){
             System.out.println("sum "+(m+k));
-   }
+    }
+    
     public static void table(int l){
         for(int i=1;i<=10;i++){
             System.out.print(l+" * "+i+" = "+i*l+"   ");
