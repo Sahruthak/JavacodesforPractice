@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class FlowOfProgram{
     
     public static void main(String[] args) {
