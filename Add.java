@@ -9,4 +9,3 @@ class Add {
            System.out.println("Addition of two numbers :"+c);
      }
 }
-
