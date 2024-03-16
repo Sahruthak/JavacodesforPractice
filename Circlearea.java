@@ -9,6 +9,7 @@ class Circlearea
   System.out.println("radius");
   r=sc.nextDouble();
   a=(4.0/3.0)*(22.0/7.0)*r*r*r;
+    
   System.out.println("AREA OF CIRCLE IS "+a);
   }
 }
