@@ -27,7 +27,7 @@ public class Main
 	    int bs=sc.nextInt();
 	    System.out.println("Triangle "+(0.5*l*b));
 	    System.out.println("Rectangle "+(l*b));
-		System.out.println("Isosceles triangle "+(0.5*l*b));
+	    System.out.println("Isosceles triangle "+(0.5*l*b));
 		System.out.println("Parallelogram"+(l*bs));
 		System.out.println("Diagonal 1");
 	    int d1=sc.nextInt();
