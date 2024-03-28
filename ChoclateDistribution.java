@@ -3,9 +3,7 @@ public class ChoclateDistribution{
   static int findMinDiff(int arr[], int n, int m) {
         if (m == 0 || n == 0)
             return 0;
- 
         Arrays.sort(arr);
- 
         if (n < m)
             return -1;
  
