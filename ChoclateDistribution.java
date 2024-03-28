@@ -8,7 +8,6 @@ public class ChoclateDistribution{
             return -1;
  
         int min_diff = Integer.MAX_VALUE;
- 
         for (int i = 0; i + m - 1 < n; i++) {
             int diff = arr[i + m - 1] - arr[i];
             if (diff < min_diff)
