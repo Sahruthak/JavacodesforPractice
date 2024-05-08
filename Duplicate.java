@@ -11,7 +11,6 @@ public class Duplicate {
             }
             set.add(num);
         }
-
         return false;
     }
 
