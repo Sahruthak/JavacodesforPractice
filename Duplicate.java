@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class Duplicate {
     public static boolean containsDuplicate(int[] arr) {
         HashSet<Integer> set = new HashSet<>();
-
         for (int num : arr) {
             if (set.contains(num)) {
                 return true;
