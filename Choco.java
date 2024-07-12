@@ -2,7 +2,6 @@
   Each student gets one packet.
   The difference between the number of chocolates in the packet with maximum chocolates and the packet with minimum chocolates given to the students is minimum. less complexity solution
 */
-
 import java.util.*;
 import java.util.Arrays;
 public class Choco
