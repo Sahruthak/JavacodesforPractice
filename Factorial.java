@@ -18,3 +18,5 @@ public class Factorial
 	    System.out.println("Not Factorial");
 	}
 }
+
+
