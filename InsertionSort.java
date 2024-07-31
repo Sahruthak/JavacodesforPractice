@@ -15,6 +15,7 @@ class InsertionSort {
 			prev.next=(curr);
 			curr=nextNode;
 		}
+	    
 		return dummy.next;
 	}
 }
