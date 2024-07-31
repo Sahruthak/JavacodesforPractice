@@ -18,3 +18,5 @@ class InsertionSort {
 		return dummy.next;
 	}
 }
+
+
